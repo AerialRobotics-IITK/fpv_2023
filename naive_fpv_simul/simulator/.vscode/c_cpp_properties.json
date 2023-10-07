@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/pulak/my_catkin_ws/devel/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/aruco_detector/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/ceres-solver-2.1.0/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/color_detector/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/2022_controller/husky_pos_vel/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/kindr/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/laser_assembler/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/mav_comm/mav_msgs/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/mav_comm/mav_planning_msgs/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/ocam/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/pose_estimator/include/**",
+        "/home/pulak/my_catkin_ws/src/gripper_utils/roboticsgroup_gazebo_plugins/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/rovio/include/**",
+        "/home/pulak/my_catkin_ws/src/random_pkgs/Surge_FPV/simulator/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/slam_toolbox/slam_toolbox/include/**",
+        "/home/pulak/my_catkin_ws/src/utils_pkgs/sparse_bundle_adjustment/include/**",
+        "/home/pulak/my_catkin_ws/src/turtlebot3_pkgs/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/pulak/my_catkin_ws/src/turtlebot3_pkgs/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/pulak/my_catkin_ws/src/turtlebot3_pkgs/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
