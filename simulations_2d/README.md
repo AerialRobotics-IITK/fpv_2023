@@ -1,6 +1,6 @@
 ## Path Planning 2D Simulations
 This section comprises of 2D Simulations of some of the most widely used path planning algorithms. 
-- grassfire (BFS)
+- Grassfire (BFS)
 - Djikstra
 - RRT
 
