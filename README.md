@@ -10,3 +10,6 @@
 ### Other References
 - <a href="https://rpg.ifi.uzh.ch/docs/RSS20_Foehn.pdf">AlphaPilot: Autonomous Drone Racing - UZH</a>
 - <a href="https://rpg.ifi.uzh.ch/docs/Loquercio21_Science.pdf">Learning High-Speed Flight in the Wild</a>
+
+### Learning Resources
+- [Google DeepMind - RL/DL Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
